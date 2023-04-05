@@ -1,0 +1,11 @@
+Model Information:
+* title:	Basic Bottle
+* source:	https://sketchfab.com/3d-models/basic-bottle-b2d9a692c15e4ad980c384fe2d6a8f8c
+* author:	Blender3D (https://sketchfab.com/Blender3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Basic Bottle" (https://sketchfab.com/3d-models/basic-bottle-b2d9a692c15e4ad980c384fe2d6a8f8c) by Blender3D (https://sketchfab.com/Blender3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
