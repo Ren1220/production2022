@@ -1,5 +1,7 @@
 #include "ChildActorParam.h"
 
+#include <algorithm>
+
 /* --- ’è‹` ---- */
 
 void ChildActorParam::UpdateRelationToParent()
